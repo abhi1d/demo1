@@ -24,5 +24,6 @@ public class Go extends HttpServlet {
 		e.printStackTrace();
 	}
 	 out.println(k);
+	 System.out.println("Hello world");
  }
 }
